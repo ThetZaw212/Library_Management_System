@@ -1,0 +1,79 @@
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\LMS.exe.config
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\LMS.exe
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\LMS.pdb
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Main_Form.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.exe
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.pdb
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Data.Purchase.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.LoginForm.resources
+C:\C# Project\LMS\LMS\bin\Debug\LMS.exe.config
+C:\C# Project\LMS\LMS\bin\Debug\LMS.exe
+C:\C# Project\LMS\LMS\bin\Debug\LMS.pdb
+C:\C# Project\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Data.Purchase.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Loading_Form.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.LoginForm.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Main_Form.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\C# Project\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\C# Project\LMS\LMS\obj\Debug\LMS.exe
+C:\C# Project\LMS\LMS\obj\Debug\LMS.pdb
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Data.Book.resources
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\LMS.exe.config
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.exe
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.pdb
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\LMS.exe
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\LMS.pdb
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\mscorlib.dll
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\normidna.nlp
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\normnfc.nlp
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\normnfd.nlp
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\normnfkc.nlp
+D:\SE(1-4)thm\C#\LMS\LMS\bin\Debug\normnfkd.nlp
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.Data.Book.resources
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.Data.Purchase.resources
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.Loading_Form.resources
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.LoginForm.resources
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.Main_Form.resources
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+D:\SE(1-4)thm\C#\LMS\LMS\obj\Debug\LMS.Data.Borrow.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\mscorlib.dll
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\normidna.nlp
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\normnfc.nlp
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\normnfd.nlp
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\normnfkc.nlp
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\bin\Debug\normnfkd.nlp
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Data.Book.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Data.Borrow.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Loading_Form.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Data.Return.resources
+E:\SE(1-4) Thet Zaw Zaw Han\C#\LMS\LMS\obj\Debug\LMS.Report.Report_form.resources
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.Shared.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\C# Project\LMS\LMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\C# Project\LMS\LMS\bin\Debug\stdole.dll
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Data.Borrow.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Data.Return.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Report.Report_form.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.csproj.CopyComplete
+C:\C# Project\LMS\LMS\obj\Debug\LMS.SignUp_Form.resources
+C:\C# Project\LMS\LMS\obj\Debug\LMS.Data.User.resources
